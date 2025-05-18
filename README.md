@@ -1,2 +1,0 @@
-# WL
-Sistema de wl
